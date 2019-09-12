@@ -6,10 +6,10 @@ end
 
 def find_max_value(array)
     scale_2 = [6,5,4,3]
-  scale_2
+  scale_2.max
 end
 
 def find_min_value(array)
     hill = [1,2,3,4,5,4,3,2,1]
-  find_min_value("hill")
+  hill.min 
 end
